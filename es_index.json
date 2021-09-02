@@ -41078,4 +41078,2324 @@
   "Time_of_origin": "208-212",
   "Name_of_Work": "De resurrectione mortuorum",
   "lowTime": 208
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9c9"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ca"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9cb"
+  },
+  "book": "ES",
+  "chapter": "13",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9cc"
+  },
+  "book": "ES",
+  "chapter": "26",
+  "verse_1": "19",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9cd"
+  },
+  "book": "ES",
+  "chapter": "29",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ce"
+  },
+  "book": "ES",
+  "chapter": "34",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9cf"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d0"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d1"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "5",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d2"
+  },
+  "book": "ES",
+  "chapter": "56",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d3"
+  },
+  "book": "ES",
+  "chapter": "66",
+  "verse_1": "24",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 70,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d4"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d5"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d6"
+  },
+  "book": "ES",
+  "chapter": "7",
+  "verse_1": "14",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d7"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "8",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d8"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "23",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9d9"
+  },
+  "book": "ES",
+  "chapter": "9",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9da"
+  },
+  "book": "ES",
+  "chapter": "13",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "24",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9db"
+  },
+  "book": "ES",
+  "chapter": "26",
+  "verse_1": "19",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9dc"
+  },
+  "book": "ES",
+  "chapter": "29",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "15",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9dd"
+  },
+  "book": "ES",
+  "chapter": "29",
+  "verse_1": "18",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9de"
+  },
+  "book": "ES",
+  "chapter": "34",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "24",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9df"
+  },
+  "book": "ES",
+  "chapter": "35",
+  "verse_1": "5",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e0"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e1"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "8",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e2"
+  },
+  "book": "ES",
+  "chapter": "56",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "21",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e3"
+  },
+  "book": "ES",
+  "chapter": "61",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e4"
+  },
+  "book": "ES",
+  "chapter": "62",
+  "verse_1": "11",
+  "verse_2": "-",
+  "ref_chapter": "21",
+  "lowTime": 80,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e5"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "8",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e6"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "8",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e7"
+  },
+  "book": "ES",
+  "chapter": "26",
+  "verse_1": "19",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e8"
+  },
+  "book": "ES",
+  "chapter": "29",
+  "verse_1": "18",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9e9"
+  },
+  "book": "ES",
+  "chapter": "34",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "21",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ea"
+  },
+  "book": "ES",
+  "chapter": "35",
+  "verse_1": "5",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9eb"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ec"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ed"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "5",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ee"
+  },
+  "book": "ES",
+  "chapter": "49",
+  "verse_1": "6",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ef"
+  },
+  "book": "ES",
+  "chapter": "49",
+  "verse_1": "6",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f0"
+  },
+  "book": "ES",
+  "chapter": "56",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "19",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f1"
+  },
+  "book": "ES",
+  "chapter": "58",
+  "verse_1": "6",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f2"
+  },
+  "book": "ES",
+  "chapter": "61",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f3"
+  },
+  "book": "ES",
+  "chapter": "61",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f4"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "28",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f5"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "28",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f6"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f7"
+  },
+  "book": "ES",
+  "chapter": "49",
+  "verse_1": "6",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f8"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "8",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9f9"
+  },
+  "book": "ES",
+  "chapter": "55",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "13",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9fa"
+  },
+  "book": "ES",
+  "chapter": "66",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 95,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9fb"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9fc"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9fd"
+  },
+  "book": "ES",
+  "chapter": "42",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9fe"
+  },
+  "book": "ES",
+  "chapter": "42",
+  "verse_1": "2",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4f9ff"
+  },
+  "book": "ES",
+  "chapter": "42",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa00"
+  },
+  "book": "ES",
+  "chapter": "42",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa01"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "12",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa02"
+  },
+  "book": "ES",
+  "chapter": "54",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "6",
+  "lowTime": 100,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa03"
+  },
+  "book": "ES",
+  "chapter": "6",
+  "verse_1": "3",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa04"
+  },
+  "book": "ES",
+  "chapter": "25",
+  "verse_1": "8",
+  "verse_2": "-",
+  "ref_chapter": "7",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa05"
+  },
+  "book": "ES",
+  "chapter": "25",
+  "verse_1": "8",
+  "verse_2": "-",
+  "ref_chapter": "21",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa06"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "14",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa07"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "12",
+  "verse_2": "-",
+  "ref_chapter": "22",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa08"
+  },
+  "book": "ES",
+  "chapter": "65",
+  "verse_1": "17",
+  "verse_2": "-",
+  "ref_chapter": "21",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa09"
+  },
+  "book": "ES",
+  "chapter": "66",
+  "verse_1": "22",
+  "verse_2": "-",
+  "ref_chapter": "21",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa0a"
+  },
+  "book": "ES",
+  "chapter": "1",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa0b"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "14",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa0c"
+  },
+  "book": "ES",
+  "chapter": "10",
+  "verse_1": "22",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa0d"
+  },
+  "book": "ES",
+  "chapter": "11",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "15",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa0e"
+  },
+  "book": "ES",
+  "chapter": "27",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa0f"
+  },
+  "book": "ES",
+  "chapter": "28",
+  "verse_1": "16",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa10"
+  },
+  "book": "ES",
+  "chapter": "28",
+  "verse_1": "16",
+  "verse_2": "-",
+  "ref_chapter": "10",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa11"
+  },
+  "book": "ES",
+  "chapter": "28",
+  "verse_1": "22",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa12"
+  },
+  "book": "ES",
+  "chapter": "29",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa13"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa14"
+  },
+  "book": "ES",
+  "chapter": "45",
+  "verse_1": "23",
+  "verse_2": "-",
+  "ref_chapter": "14",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa15"
+  },
+  "book": "ES",
+  "chapter": "49",
+  "verse_1": "18",
+  "verse_2": "-",
+  "ref_chapter": "14",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa16"
+  },
+  "book": "ES",
+  "chapter": "52",
+  "verse_1": "2",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa17"
+  },
+  "book": "ES",
+  "chapter": "52",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "10",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa18"
+  },
+  "book": "ES",
+  "chapter": "52",
+  "verse_1": "15",
+  "verse_2": "-",
+  "ref_chapter": "15",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa19"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "10",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa1a"
+  },
+  "book": "ES",
+  "chapter": "59",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa1b"
+  },
+  "book": "ES",
+  "chapter": "59",
+  "verse_1": "20",
+  "verse_2": "-",
+  "ref_chapter": "11",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa1c"
+  },
+  "book": "ES",
+  "chapter": "65",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "10",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa1d"
+  },
+  "book": "ES",
+  "chapter": "65",
+  "verse_1": "2",
+  "verse_2": "-",
+  "ref_chapter": "10",
+  "lowTime": 56,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa1e"
+  },
+  "book": "ES",
+  "chapter": "22",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "15",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa1f"
+  },
+  "book": "ES",
+  "chapter": "25",
+  "verse_1": "8",
+  "verse_2": "-",
+  "ref_chapter": "15",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa20"
+  },
+  "book": "ES",
+  "chapter": "28",
+  "verse_1": "11",
+  "verse_2": "-",
+  "ref_chapter": "14",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa21"
+  },
+  "book": "ES",
+  "chapter": "29",
+  "verse_1": "14",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa22"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa23"
+  },
+  "book": "ES",
+  "chapter": "45",
+  "verse_1": "14",
+  "verse_2": "-",
+  "ref_chapter": "14",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa24"
+  },
+  "book": "ES",
+  "chapter": "52",
+  "verse_1": "11",
+  "verse_2": "-",
+  "ref_chapter": "6",
+  "lowTime": 52,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa25"
+  },
+  "book": "ES",
+  "chapter": "49",
+  "verse_1": "8",
+  "verse_2": "-",
+  "ref_chapter": "6",
+  "lowTime": 55,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa26"
+  },
+  "book": "ES",
+  "chapter": "55",
+  "verse_1": "10",
+  "verse_2": "-",
+  "ref_chapter": "9",
+  "lowTime": 55,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa27"
+  },
+  "book": "ES",
+  "chapter": "54",
+  "verse_1": "1",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 55,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa28"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "17",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa29"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "18",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa2a"
+  },
+  "book": "ES",
+  "chapter": "12",
+  "verse_1": "2",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa2b"
+  },
+  "book": "ES",
+  "chapter": "26",
+  "verse_1": "20",
+  "verse_2": "-",
+  "ref_chapter": "10",
+  "lowTime": 90,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa2c"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "12",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa2d"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "13",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa2e"
+  },
+  "book": "ES",
+  "chapter": "8",
+  "verse_1": "14",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa2f"
+  },
+  "book": "ES",
+  "chapter": "11",
+  "verse_1": "2",
+  "verse_2": "-",
+  "ref_chapter": "4",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa30"
+  },
+  "book": "ES",
+  "chapter": "28",
+  "verse_1": "16",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa31"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "6",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa32"
+  },
+  "book": "ES",
+  "chapter": "40",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "1",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa33"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "4",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa34"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "5",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa35"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "6",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa36"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "7",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa37"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "8",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa38"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "9",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa39"
+  },
+  "book": "ES",
+  "chapter": "53",
+  "verse_1": "12",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 85,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa3a"
+  },
+  "book": "ES",
+  "chapter": "43",
+  "verse_1": "21",
+  "verse_2": "-",
+  "ref_chapter": "2",
+  "lowTime": 120,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa3b"
+  },
+  "book": "ES",
+  "chapter": "65",
+  "verse_1": "17",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 120,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
+},{
+  "_id": {
+    "$oid": "6130bf6e334587ea96f4fa3c"
+  },
+  "book": "ES",
+  "chapter": "66",
+  "verse_1": "22",
+  "verse_2": "-",
+  "ref_chapter": "3",
+  "lowTime": 120,
+  "indicator": "-",
+  "author": "-",
+  "ref_in_book": "-",
+  "ref_book_num": "-",
+  "ref_para": "-",
+  "ref_page": "-",
+  "ref_line": "-",
+  "verse": "-",
+  "index_page_number": "NT",
+  "Author": "-"
 }]
