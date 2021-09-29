@@ -41098,7 +41098,8 @@
   "verse": "6-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ca"
@@ -41119,7 +41120,8 @@
   "verse": "6-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9cb"
@@ -41140,7 +41142,8 @@
   "verse": "13-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9cc"
@@ -41161,7 +41164,8 @@
   "verse": "26-19",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9cd"
@@ -41182,7 +41186,8 @@
   "verse": "29-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ce"
@@ -41203,7 +41208,8 @@
   "verse": "34-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9cf"
@@ -41224,7 +41230,8 @@
   "verse": "40-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d0"
@@ -41245,7 +41252,8 @@
   "verse": "40-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d1"
@@ -41266,7 +41274,8 @@
   "verse": "40-5",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d2"
@@ -41287,7 +41296,8 @@
   "verse": "56-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d3"
@@ -41308,7 +41318,8 @@
   "verse": "66-24",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Mark"
+  "Abbreviation": "Mark",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d4"
@@ -41329,7 +41340,8 @@
   "verse": "6-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d5"
@@ -41350,7 +41362,8 @@
   "verse": "6-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d6"
@@ -41371,7 +41384,8 @@
   "verse": "7-14",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d7"
@@ -41392,7 +41406,8 @@
   "verse": "8-8",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d8"
@@ -41413,7 +41428,8 @@
   "verse": "8-23",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9d9"
@@ -41434,7 +41450,8 @@
   "verse": "9-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9da"
@@ -41455,7 +41472,8 @@
   "verse": "13-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9db"
@@ -41476,7 +41494,8 @@
   "verse": "26-19",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9dc"
@@ -41497,7 +41516,8 @@
   "verse": "29-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9dd"
@@ -41518,7 +41538,8 @@
   "verse": "29-18",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9de"
@@ -41539,7 +41560,8 @@
   "verse": "34-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9df"
@@ -41560,7 +41582,8 @@
   "verse": "35-5",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e0"
@@ -41581,7 +41604,8 @@
   "verse": "40-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e1"
@@ -41602,7 +41626,8 @@
   "verse": "53-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e2"
@@ -41623,7 +41648,8 @@
   "verse": "56-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e3"
@@ -41644,7 +41670,8 @@
   "verse": "61-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e4"
@@ -41665,7 +41692,8 @@
   "verse": "62-11",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Matt"
+  "Abbreviation": "Matt",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e5"
@@ -41686,7 +41714,8 @@
   "verse": "6-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e6"
@@ -41707,7 +41736,8 @@
   "verse": "6-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e7"
@@ -41728,7 +41758,8 @@
   "verse": "26-19",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e8"
@@ -41749,7 +41780,8 @@
   "verse": "29-18",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9e9"
@@ -41770,7 +41802,8 @@
   "verse": "34-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ea"
@@ -41791,7 +41824,8 @@
   "verse": "35-5",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9eb"
@@ -41812,7 +41846,8 @@
   "verse": "40-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ec"
@@ -41833,7 +41868,8 @@
   "verse": "40-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ed"
@@ -41854,7 +41890,8 @@
   "verse": "40-5",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ee"
@@ -41875,7 +41912,8 @@
   "verse": "49-6",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ef"
@@ -41896,7 +41934,8 @@
   "verse": "49-6",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f0"
@@ -41917,7 +41956,8 @@
   "verse": "56-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f1"
@@ -41938,7 +41978,8 @@
   "verse": "58-6",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f2"
@@ -41959,7 +42000,8 @@
   "verse": "61-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f3"
@@ -41980,7 +42022,8 @@
   "verse": "61-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Luke"
+  "Abbreviation": "Luke",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f4"
@@ -42001,7 +42044,8 @@
   "verse": "6-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f5"
@@ -42022,7 +42066,8 @@
   "verse": "6-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f6"
@@ -42043,7 +42088,8 @@
   "verse": "40-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f7"
@@ -42064,7 +42110,8 @@
   "verse": "49-6",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f8"
@@ -42085,7 +42132,8 @@
   "verse": "53-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9f9"
@@ -42106,7 +42154,8 @@
   "verse": "55-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9fa"
@@ -42127,7 +42176,8 @@
   "verse": "66-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Acts"
+  "Abbreviation": "Acts",
+  "Genre": "Acts of Apostles"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9fb"
@@ -42148,7 +42198,8 @@
   "verse": "6-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9fc"
@@ -42169,7 +42220,8 @@
   "verse": "6-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9fd"
@@ -42190,7 +42242,8 @@
   "verse": "42-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9fe"
@@ -42211,7 +42264,8 @@
   "verse": "42-2",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4f9ff"
@@ -42232,7 +42286,8 @@
   "verse": "42-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa00"
@@ -42253,7 +42308,8 @@
   "verse": "42-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa01"
@@ -42274,7 +42330,8 @@
   "verse": "53-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa02"
@@ -42295,7 +42352,8 @@
   "verse": "54-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "John"
+  "Abbreviation": "John",
+  "Genre": "Gospel"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa03"
@@ -42316,7 +42374,8 @@
   "verse": "6-3",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa04"
@@ -42337,7 +42396,8 @@
   "verse": "25-8",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa05"
@@ -42358,7 +42418,8 @@
   "verse": "25-8",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa06"
@@ -42379,7 +42440,8 @@
   "verse": "53-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa07"
@@ -42400,7 +42462,8 @@
   "verse": "53-12",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa08"
@@ -42421,7 +42484,8 @@
   "verse": "65-17",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa09"
@@ -42442,7 +42506,8 @@
   "verse": "66-22",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rev"
+  "Abbreviation": "Rev",
+  "Genre": "Apocalypse"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa0a"
@@ -42463,7 +42528,8 @@
   "verse": "1-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa0b"
@@ -42484,7 +42550,8 @@
   "verse": "8-14",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa0c"
@@ -42505,7 +42572,8 @@
   "verse": "10-22",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa0d"
@@ -42526,7 +42594,8 @@
   "verse": "11-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa0e"
@@ -42547,7 +42616,8 @@
   "verse": "27-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa0f"
@@ -42568,7 +42638,8 @@
   "verse": "28-16",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa10"
@@ -42589,7 +42660,8 @@
   "verse": "28-16",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa11"
@@ -42610,7 +42682,8 @@
   "verse": "28-22",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa12"
@@ -42631,7 +42704,8 @@
   "verse": "29-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa13"
@@ -42652,7 +42726,8 @@
   "verse": "40-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa14"
@@ -42673,7 +42748,8 @@
   "verse": "45-23",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa15"
@@ -42694,7 +42770,8 @@
   "verse": "49-18",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa16"
@@ -42715,7 +42792,8 @@
   "verse": "52-2",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa17"
@@ -42736,7 +42814,8 @@
   "verse": "52-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa18"
@@ -42757,7 +42836,8 @@
   "verse": "52-15",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa19"
@@ -42778,7 +42858,8 @@
   "verse": "53-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa1a"
@@ -42799,7 +42880,8 @@
   "verse": "59-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa1b"
@@ -42820,7 +42902,8 @@
   "verse": "59-20",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa1c"
@@ -42841,7 +42924,8 @@
   "verse": "65-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa1d"
@@ -42862,7 +42946,8 @@
   "verse": "65-2",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Rom"
+  "Abbreviation": "Rom",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa1e"
@@ -42883,7 +42968,8 @@
   "verse": "22-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa1f"
@@ -42904,7 +42990,8 @@
   "verse": "25-8",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa20"
@@ -42925,7 +43012,8 @@
   "verse": "28-11",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa21"
@@ -42946,7 +43034,8 @@
   "verse": "29-14",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa22"
@@ -42967,7 +43056,8 @@
   "verse": "40-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa23"
@@ -42988,7 +43078,8 @@
   "verse": "45-14",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa24"
@@ -43009,7 +43100,8 @@
   "verse": "52-11",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Cor"
+  "Abbreviation": "1 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa25"
@@ -43030,7 +43122,8 @@
   "verse": "49-8",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "2 Cor"
+  "Abbreviation": "2 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa26"
@@ -43051,7 +43144,8 @@
   "verse": "55-10",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "2 Cor"
+  "Abbreviation": "2 Cor",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa27"
@@ -43072,7 +43166,8 @@
   "verse": "54-1",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Gal"
+  "Abbreviation": "Gal",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa28"
@@ -43093,7 +43188,8 @@
   "verse": "8-17",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Hebr"
+  "Abbreviation": "Hebr",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa29"
@@ -43114,7 +43210,8 @@
   "verse": "8-18",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Hebr"
+  "Abbreviation": "Hebr",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa2a"
@@ -43135,7 +43232,8 @@
   "verse": "12-2",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Hebr"
+  "Abbreviation": "Hebr",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa2b"
@@ -43156,7 +43254,8 @@
   "verse": "26-20",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "Hebr"
+  "Abbreviation": "Hebr",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa2c"
@@ -43177,7 +43276,8 @@
   "verse": "8-12",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa2d"
@@ -43198,7 +43298,8 @@
   "verse": "8-13",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa2e"
@@ -43219,7 +43320,8 @@
   "verse": "8-14",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa2f"
@@ -43240,7 +43342,8 @@
   "verse": "11-2",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa30"
@@ -43261,7 +43364,8 @@
   "verse": "28-16",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa31"
@@ -43282,7 +43386,8 @@
   "verse": "40-6",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa32"
@@ -43303,7 +43408,8 @@
   "verse": "40-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa33"
@@ -43324,7 +43430,8 @@
   "verse": "53-4",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa34"
@@ -43345,7 +43452,8 @@
   "verse": "53-5",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa35"
@@ -43366,7 +43474,8 @@
   "verse": "53-6",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa36"
@@ -43387,7 +43496,8 @@
   "verse": "53-7",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa37"
@@ -43408,7 +43518,8 @@
   "verse": "53-8",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa38"
@@ -43429,7 +43540,8 @@
   "verse": "53-9",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa39"
@@ -43450,7 +43562,8 @@
   "verse": "53-12",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "1 Pet"
+  "Abbreviation": "1 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa3a"
@@ -43471,7 +43584,8 @@
   "verse": "43-21",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "2 Pet"
+  "Abbreviation": "2 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa3b"
@@ -43492,7 +43606,8 @@
   "verse": "65-17",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "2 Pet"
+  "Abbreviation": "2 Pet",
+  "Genre": "Letter"
 },{
   "_id": {
     "$oid": "6130bf6e334587ea96f4fa3c"
@@ -43513,5 +43628,6 @@
   "verse": "66-22",
   "index_page_number": "NT",
   "Author": "-",
-  "Abbreviation": "2 Pet"
+  "Abbreviation": "2 Pet",
+  "Genre": "Letter"
 }]
